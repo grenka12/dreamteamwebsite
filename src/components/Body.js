@@ -1,15 +1,26 @@
 import React from "react";
 
+const people = [
+  {
+    id: 1,
+    name: "John Doe",
+    position: "Software Engineer",
+    photo: "/avatar-default.png",
+  },
+];
+
 const Body = () => {
   return (
     <main style={styles.body}>
-      <div style={styles.card}>
-        <img src={"/avatar-default.png"} alt="John Doe" style={styles.photo} />
-        <div style={styles.textContainer}>
-          <h2 style={styles.name}>John Doe</h2>
-          <p style={styles.position}>Software engineer</p>
+      {people.map((person) => (
+        <div key={person.id} style={styles.card}>
+          <img src={person.photo} alt={person.name} style={styles.photo} />
+          <div style={styles.textContainer}>
+            <h2 style={styles.name}>{person.name}</h2>
+            <p style={styles.position}>{person.position}</p>
+          </div>
         </div>
-      </div>
+      ))}
     </main>
   );
 };
