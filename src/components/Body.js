@@ -4,7 +4,7 @@ const people = [
   {
     id: 1,
     name: "Chornobryvets Yehor",
-    position: "Software Engineer",
+    position: "DevOPS Engineer",
     photo: "/yehor_photo.jpg",
   },
    {
