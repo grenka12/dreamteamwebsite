@@ -3,7 +3,7 @@ import React from "react";
 const people = [
   {
     id: 1,
-    name: "John Doe",
+    name: "Chornobryvets Yehor",
     position: "Software Engineer",
     photo: "/avatar-default.png",
   },
