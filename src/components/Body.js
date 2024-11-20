@@ -17,7 +17,7 @@ const people = [
     id: 3,
     name: "Khorovets Bohdan",
     position: "Software Engineer",
-    photo: "/avatar-default.png",
+    photo: "/bohdan_png.png",
   },
     {
     id: 4,
