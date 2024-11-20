@@ -13,6 +13,18 @@ const people = [
     position: "Software Engineer",
     photo: "/avatar-default.png",
   },
+   {
+    id: 3,
+    name: "Khorovets Bohdan",
+    position: "Software Engineer",
+    photo: "/avatar-default.png",
+  },
+    {
+    id: 4,
+    name: "Cherkun Mariia-Anna",
+    position: "Software Engineer",
+    photo: "/avatar-default.png",
+  },
 ];
 
 const Body = () => {
