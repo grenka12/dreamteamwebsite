@@ -13,6 +13,12 @@ const people = [
     position: "Software Engineer",
     photo: "/avatar-default.png",
   },
+  {
+    id: 3,
+    name: "Cherkun Mariia-Anna",
+    position: "Software Engineer",
+    photo: "/avatar-default.png",
+  },
 ];
 
 const Body = () => {
