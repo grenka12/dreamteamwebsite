@@ -7,6 +7,12 @@ const people = [
     position: "Software Engineer",
     photo: "/avatar-default.png",
   },
+   {
+    id: 2,
+    name: "Storozhenko Anastasiia",
+    position: "Software Engineer",
+    photo: "/avatar-default.png",
+  },
 ];
 
 const Body = () => {
