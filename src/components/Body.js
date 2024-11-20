@@ -9,7 +9,7 @@ const people = [
   },
    {
     id: 2,
-    name: "Storozhenko Anastasiia",
+    name: "Khorovets Bohdan",
     position: "Software Engineer",
     photo: "/avatar-default.png",
   },
