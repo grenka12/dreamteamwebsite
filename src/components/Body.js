@@ -5,25 +5,25 @@ const people = [
     id: 1,
     name: "Chornobryvets Yehor",
     position: "Software Engineer",
-    photo: "/avatar-default.png",
+    photo: "/yehor_photo.jpg",
   },
    {
     id: 2,
     name: "Storozhenko Anastasiia",
     position: "Software Engineer",
-    photo: "/avatar-default.png",
+    photo: "/storozhenko.png",
   },
    {
     id: 3,
     name: "Khorovets Bohdan",
     position: "Software Engineer",
-    photo: "/avatar-default.png",
+    photo: "/bohdan_png.jpg",
   },
     {
     id: 4,
     name: "Cherkun Mariia-Anna",
     position: "Software Engineer",
-    photo: "/avatar-default.png",
+    photo: "/avatar.jpg",
   },
 ];
 
