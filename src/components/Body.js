@@ -11,7 +11,7 @@ const people = [
     id: 2,
     name: "Storozhenko Anastasiia",
     position: "Software Engineer",
-    photo: "/avatar-default.png",
+    photo: "/storozhenko.png",
   },
    {
     id: 3,
