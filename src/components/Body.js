@@ -23,7 +23,7 @@ const people = [
     id: 4,
     name: "Cherkun Mariia-Anna",
     position: "Software Engineer",
-    photo: "/avatar-default.png",
+    photo: "/avatar.jpg",
   },
 ];
 
