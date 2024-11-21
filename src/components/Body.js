@@ -10,19 +10,19 @@ const people = [
    {
     id: 2,
     name: "Storozhenko Anastasiia",
-    position: "Software Engineer",
+    position: "Designer",
     photo: "/storozhenko.png",
   },
    {
     id: 3,
     name: "Khorovets Bohdan",
-    position: "Software Engineer",
+    position: "Backend dev",
     photo: "/bohdan_png.jpg",
   },
     {
     id: 4,
     name: "Cherkun Mariia-Anna",
-    position: "Software Engineer",
+    position: "Frontend Dev",
     photo: "/avatar.jpg",
   },
 ];
